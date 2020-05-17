@@ -1,2 +1,2 @@
-# Maulik Portfolio
+# My Portfolio
 Data Science Portfolio
