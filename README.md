@@ -2,13 +2,14 @@
 Data Science Portfolio
 
 # [Project 1: Data Science Salary Estimator](https://github.com/maulik-vyas/SalaryPredictionProject) 
-* Created a tool that examine a set of job postings with salaries and then predict salaries for a new set of job postings. The model will   decide the remunerations for present as well as future employees of any organization.
-* Scraped over 1000 job descriptions from glassdoor using python and selenium
-* Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
-* Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
-* Built a client facing API using flask 
+* Created a tool that examine a set of attributes with salaries and then predict salaries for a new set of job postings. The model will   decide the salary for present as well as future employees of any organization.
+* Scraped over 1 million datasets using Python and Machine Learning algorithms as well as packages.
+* Engineered features from the text of each job description to quantify the value of each attribute in the final salary. 
+* Optimized Linear, Second order Polynomial Linear, Gradient Boosting and Ridge Regressor using 5-fold Cross Validation to reach the       best model. 
+* Automated pipeline for Ridge Regression and predicted salaries from new data. 
 
 # [Project 2: Flower Classification](https://github.com/maulik-vyas/IRIS-Dataset-Project)
+* Developed a model to classify flowers from sepal langth, sepal width, petal length, and petal width.
 
 # [Project 3: Titanic Project](https://github.com/maulik-vyas/Titanic-Project)
 
