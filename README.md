@@ -32,7 +32,7 @@ Data Science Portfolio
 * Built a utility matrix to combine different movie ratings given by each user and decomposed various users' taste into 12 categories.
 * In the model, from the dataset, any movie is selected and then relevant movies are suggested to the user.
 
-# [Project 7: Brain Weight by Head Size](https://github.com/maulik-vyas/BrainWeightProject/blob/master/BrainWeight.ipynb)
+# [Project 7: Brain Weight by Head Size](https://github.com/maulik-vyas/BrainWeightProject)
 * The objective of this problem is to check how linearly head size is correlated with the Brain Weight by using Linear Regression         Algorithm and find out R^2 and root mean square error.
 
 # [Project 8: Car Recommendation Model](https://github.com/maulik-vyas/AutomobilesRecommenderModel)
