@@ -38,5 +38,5 @@ Data Science Portfolio
 # [Project 8: Car Recommendation Model](https://github.com/maulik-vyas/AutomobilesRecommenderModel)
 * A simple ML model to suggest cars to the customers according to their wish list. Just like as when a customer approaches any car         dealer and he suggests a car based upon the requirements, this model does the same thing by means of k-Nearest Neighbors.
 
-# [Project 9: Bank Loan Recommendation Model](https://github.com/maulik-vyas/LoanRecommendationModel)
-* A very simple loan recommendation model to identify how many users actually liked the offers and how many of the users' preferred       loans were recommended. 
+# [Project 9: Loan Recommendation Model](https://github.com/maulik-vyas/LoanRecommendationModel)
+* A very simple bank loan recommendation model to identify how many users actually liked the offers and how many of the users' preferred       loans were recommended. 
