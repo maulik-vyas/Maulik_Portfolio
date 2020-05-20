@@ -1,6 +1,5 @@
 # My Portfolio
 Data Science Portfolio
-![](C:\Users\mauli\Desktop\Desktop\DS\myphoto)
 
 # [Project 1: Data Science Salary Estimator](https://github.com/maulik-vyas/SalaryPredictionProject) 
 * Created a tool that examine a set of attributes with salaries and then predict salaries for a new set of job postings. The model will   decide the salary for present as well as future employees of any organization.
